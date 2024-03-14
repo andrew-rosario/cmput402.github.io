@@ -173,7 +173,7 @@ For more information, see the [Percentages and Letter Grades explanation]({filen
 
 ## Statement of Expectations for AI Use
 
-**You MUST not submit work by Chat GPT as your own, that is plagiarism.** This also applies to other "AI" and Generative Models: Lex.page, DALL-E2, Google BARD, Microsoft Bing, and others. If you use ChatGPT you must cite it. This includes the Entity, Resource, Subject, and Date. For example:
+**You MUST not submit work by ChatGPT as your own, that is plagiarism.** This also applies to other "AI" and Generative Models: Lex.page, DALL-E 2, Google Gemini, Microsoft Copilot, and others. If you use ChatGPT you must cite it. This includes the Entity, Resource, Subject, and Date. For example:
 
 ```.js
 // The following function from Microsoft, Bing, "How do I write a merge sort in JavaScript?", 2023-08-31
@@ -187,7 +187,7 @@ If you use ChatGPT **you must cite it**, but it's probably better to Google what
 **Stackoverflow is always a better resource than Large Language Models such as ChatGPT**, but of course if you use code from Stackoverflow or any other website, **you must cite it.**
 
 ChatGPT and similar services are recording everything you tell it, and tracking you.
-Using ChatGPT/Bing/Bard etc. they are recording everything you say and how the LLM responds
+Using ChatGPT/Copilot/Gemini etc. they are recording everything you say and how the LLM responds
 to you. There is no privacy.
 
 * ChatGPT example from CMPUT 229:
