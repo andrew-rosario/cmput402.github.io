@@ -207,7 +207,7 @@ Re-Evaluation of Term Work follows the [Computing Science department course poli
 This course does not have a final examination: there is no possibility of a re-examination in this course.
 <!--A student who writes the final examination and fails the course may apply for a re-examination.  Re-examinations are rarely granted in the Faculty of Science.  Re-examinations are governed by [university-wide Academic Regulations](https://calendar.ualberta.ca/content.php?catoid=39&navoid=12216#reexaminations) and [Faculty of Science Academic Regulations](https://calendar.ualberta.ca/content.php?catoid=39&navoid=12231#reexamination). Misrepresentation of Facts to gain a re-examination is a serious breach of the Code of Student Behaviour.-->
 
-## Past or Representative evaluative Material
+## Past or Representative Evaluative Material
 
 Will be posted on eClass.
 
