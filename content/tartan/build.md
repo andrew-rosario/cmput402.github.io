@@ -32,19 +32,19 @@ as database engine. Python 3.7 is used to execute the house simulator/hub.
 
 ## Installation/Download links
 
-* Gradle: https://gradle.org/install/
-   * For the Gradle Wrapper: go to the directory and run `gradle wrapper`, then you can start using `gradlew`
+- Gradle: [https://gradle.org/install/](https://gradle.org/install/)
+  - For the Gradle Wrapper: go to the directory and run `gradle wrapper`, then you can start using `gradlew`
       e.g., 
       ```
       cd smart-home/Platform
       gradle wrapper
       ```
-* Java (Windows): https://www.oracle.com/ca-en/java/technologies/javase/jdk11-archive-downloads.html
-* MySQL (Ubuntu): https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-18-04
-* MySQL (Windows): https://downloads.mysql.com/archives/installer/ Change version to 8.0
-* Docker (Ubuntu): https://docs.docker.com/engine/install/ubuntu/
-* Docker Desktop (Docker for Windows): https://docs.docker.com/docker-for-windows/install/
-* Windows Subsytem for Linux (needed for Docker Desktop): https://docs.microsoft.com/en-us/windows/wsl/install-win10#step-4---download-the-linux-kernel-update-package
+- Java (Windows): [https://www.oracle.com/ca-en/java/technologies/javase/jdk11-archive-downloads.html](https://www.oracle.com/ca-en/java/technologies/javase/jdk11-archive-downloads.html)
+- MySQL (Ubuntu): [https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-18-04](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-18-04)
+- MySQL (Windows): [https://downloads.mysql.com/archives/installer/](https://downloads.mysql.com/archives/installer/) // Change MySQL version to 8.0
+- Docker (Ubuntu): [https://docs.docker.com/engine/install/ubuntu/](https://docs.docker.com/engine/install/ubuntu/)
+- Docker Desktop (Docker for Windows): [https://docs.docker.com/docker-for-windows/install/](https://docs.docker.com/docker-for-windows/install/)
+- Windows Subsytem for Linux (needed for Docker Desktop): [https://docs.microsoft.com/en-us/windows/wsl/install-win10#step-4---download-the-linux-kernel-update-package](https://docs.microsoft.com/en-us/windows/wsl/install-win10#step-4---download-the-linux-kernel-update-package)
 
 ## Database Configuration
 
