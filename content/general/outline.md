@@ -67,7 +67,7 @@ The weekly topic schedule is likely to be updated during the term; please see [t
 
 # Learning Resources
 
-**Texbook:** There is no required text book for this course.
+**Textbook:** There is no required text book for this course.
 Various related resources and readings will be provided by the instructor
 on eClass throughout the course.
 If you would like to get a comprehensive foundation in software testing, you
@@ -233,7 +233,7 @@ Failure to participate on time for any reason will result in a mark of zero. Ple
 
 Unless otherwise instructed by an instructor, **this course requires attendance in-person or via Zoom during the scheduled lectures and labs.** Some lectures or labs require in-person attendance, like the last lab for presentations, and for exams.
 
-* **Most Lectures** will be given in **hybrid** format. The lecture will be given in the lecture room on campus. At the same time, the lecture will also be streamed via Zoom and a recording of the lecture content will be made.
+* **Most lectures** will be given in **hybrid** format. The lecture will be given in the lecture room on campus. At the same time, the lecture will also be streamed via Zoom and a recording of the lecture content will be made.
     * Lecture recordings will be available **on request only**. If you want a lecture recording, you must contact the instructor.
     * Students are expected to attend during the lecture either on Zoom or in-person.
     * **Presentations and Guest Lectures** will be given **in-person only.**
