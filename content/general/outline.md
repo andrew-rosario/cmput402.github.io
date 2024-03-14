@@ -184,11 +184,9 @@ If you use ChatGPT **you must cite it**, but it's probably better to Google what
 
 **ChatGPT is wrong a lot.** It does not understand computer science. It understands how to form sentences and paragraphs well enough to be convincing, but it doesn't actually understand what anything it is saying means. When it has the choice between two sentences, with opposite meanings, it will pick the sentence that looks more like English it has seen, it does not pick the one that is most correct. This means you need to double-check that what it tells you is actually correct.
 
-**Stackoverflow is always a better resource than Large Language Models such as ChatGPT**, but of course if you use code from Stackoverflow or any other website, **you must cite it.**
+**Stack Overflow is always a better resource than Large Language Models such as ChatGPT**, but of course if you use code from Stack Overflow or any other website, **you must cite it.**
 
-ChatGPT and similar services are recording everything you tell it, and tracking you.
-Using ChatGPT/Copilot/Gemini etc. they are recording everything you say and how the LLM responds
-to you. There is no privacy.
+ChatGPT and similar services are recording everything you tell it, and tracking you. There is no privacy.
 
 * ChatGPT example from CMPUT 229:
     * Me: "What is the difference between the b and j pseudoinstruction in RISC-V?"
