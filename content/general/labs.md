@@ -7,8 +7,6 @@ summary: Lab Procedure, Lab Assignments, Lab Marking
 
 ----
 
-[TOC]
-
 # Lab Things Go Here
 
 Lab material is on [Google Drive](https://drive.google.com/drive/folders/1bFzss045P-FRPCSXZpzdlLyLCHm29f4y?usp=drive_link) or eClass.
